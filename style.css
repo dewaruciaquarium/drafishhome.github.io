@@ -20,17 +20,18 @@ table {
 }
 
 th {
-  border: 1px solid #dddddd;
+  border: 1px solid #000000;
+  background-color: #437ba3;
   text-align: center;
   padding: 8px;
 }
 
 td {
-  border: 1px solid #dddddd;
+  border: 1px solid #000000;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: aliceblue;
 }
